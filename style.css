@@ -332,7 +332,7 @@ a img.aligncenter {
 	-ms-justify-content:center;
 	height:100%;
 	width:100%;
-	background-color:#bac63e;    
+	background-color: #72c6ee ;    
 }
 
 .letter{
@@ -389,7 +389,7 @@ a img.aligncenter {
     -ms-justify-content:center;
     height:50%;
     width:50%;
-    background-color:#bac63e;
+    background-color: #72c6ee ;
     -webkit-animation-name:cupcakeAnimate;
     -webkit-animation-duration:500ms;
     -webkit-animation-direction:alternate;
@@ -512,12 +512,12 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
 .header_style_01 .navbar-default .navbar-nav > li:focus a {
-    background-color: #bac63e;
+    background-color: #ADD8E6;
 	color: #ffffff;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.active{
-	background-color: #bac63e;
+	background-color:  #72c6ee;
 	color: #ffffff;
 }
 
