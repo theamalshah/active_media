@@ -332,7 +332,7 @@ a img.aligncenter {
 	-ms-justify-content:center;
 	height:100%;
 	width:100%;
-	background-color: #72c6ee ;    
+	background-color: #38618B ;    
 }
 
 .letter{
@@ -389,7 +389,7 @@ a img.aligncenter {
     -ms-justify-content:center;
     height:50%;
     width:50%;
-    background-color: #72c6ee ;
+    background-color:   #38618B ;
     -webkit-animation-name:cupcakeAnimate;
     -webkit-animation-duration:500ms;
     -webkit-animation-direction:alternate;
@@ -517,7 +517,7 @@ a img.aligncenter {
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.active{
-	background-color:  #72c6ee;
+	background-color: #38618B;
 	color: #ffffff;
 }
 
@@ -2127,7 +2127,7 @@ select.mobile-device {
 }
 
 .footer .widget-title h3 {
-    color: #bac63e;
+    color: #38618B;
     font-weight: 500;
     font-size: 21px;
     padding: 0;
@@ -2145,11 +2145,11 @@ select.mobile-device {
 }
 
 body.seo_version .footer-links a:hover{
-	color: #bac63e;
+	color:     #38618B;
 }
 .footer-links a:hover,
 .footer a:hover {
-    color: #bac63e;
+    color:      #38618B;
 }
 
 .footer-links li {
@@ -2323,19 +2323,19 @@ body.seo_version .footer-links a:hover{
 }
 
 .social-md li a.fb:hover{
-	background: #bac63e;
+	background: #38618B;
 }
 .social-md li a.gi:hover{
-	background: #bac63e;
+	background: #38618B;
 }
 .social-md li a.tw:hover{
-	background: #bac63e;
+	background: #38618B;
 }
 .social-md li a.dr:hover{
-	background: #bac63e;
+	background: #38618B;
 }
 .social-md li a.pi:hover{
-	background: #bac63e;
+	background: #38618B;
 }
 
 
